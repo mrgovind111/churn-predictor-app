@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+notebook/
+docker_build.log
+.ipynb_checkpoints/
+.streamlit/secrets.toml
