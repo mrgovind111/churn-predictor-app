@@ -2,7 +2,7 @@
 import requests
 import os
 
-API_URL = os.getenv("API_URL", "http://localhost:8000")
+API_URL = os.getenv("API_URL", "https://churn-predictor-app-i5pq.onrender.com")
 
 st.set_page_config(
     page_title="Churn Predictor",
