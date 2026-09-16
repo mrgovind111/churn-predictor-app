@@ -4,7 +4,7 @@ Capstone project: a scikit-learn model served via FastAPI, containerized with Do
 
 ## Live URLs
 
-- Frontend UI: https://churn-predictor-app-kqzwypxsnz3y4ttwsznzc2.streamlit.app/
+- Frontend UI: https://churn-predictor-app-govind.streamlit.app/
 - API docs: https://churn-predictor-app-i5pq.onrender.com/docs
 - API health: https://churn-predictor-app-i5pq.onrender.com/health
 
