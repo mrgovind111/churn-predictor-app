@@ -1,5 +1,8 @@
 # Customer Churn Predictor — End-to-End ML Deployment
 
+## Demo Video
+Watch the walkthrough:https://youtu.be/4sWx644-ShA
+
 Capstone project: a scikit-learn model served via FastAPI, containerized with Docker, and deployed to the cloud with a Streamlit frontend.
 
 ## Live URLs
